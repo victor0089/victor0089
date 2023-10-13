@@ -2,7 +2,7 @@
 
 
 <h2>✨ Victor A Israel 👨🏻‍💻✨</h2>
-<img align="right" alt="Coding" width="40D" src="https://github.com/victor0089/victor0089/blob/main/2.jpg">
+<img align="right" alt="Coding" width="600" src="https://github.com/victor0089/victor0089/blob/main/2.jpg">
 <h3><code>Software engineering</code></h3>
 
 <p>I'm a software engineering student currently pursuing a degree in ALX program. With a strong interest in technology and a passion for problem-solving, I have always been drawn to this field.
