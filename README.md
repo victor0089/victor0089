@@ -38,6 +38,24 @@
 <br>
 </div>
 
+## <b> `Tech Stack:`  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,c,react,ts,nodejs,express,django,mysql,mongodb,php,docker,nginx,redis,firebase,html,css,tailwind,vim,bash,git,linux,Kubernetes&perline=13" />
+  </a>
+</p>
+
+
+<p align="center">
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor0089&show_icons=true&count_private=true&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=victor0089&theme=merko&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</p> 
+
+
+<div id="header" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVoOWttb3U1c2JvcWYyODJ6ZTd5cHJiZzEzb2R5cXViMWhoMDczZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" />
+</di
   
  <!--25-->
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
