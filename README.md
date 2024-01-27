@@ -6,7 +6,19 @@
 <h3><code>Software engineering</code></h3>
 
 <p>I'm a software engineering student currently pursuing a degree in ALX program. With a strong interest in technology and a passion for problem-solving, I have always been drawn to this field.
+ <br>
+# <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
+<p > 
+<p align="left">
+<a href="https://www.youtube.com/channel/
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="besthor7" height="40" width="50" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_besthor" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/Victor-a-israel/
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bestor igbe" height="40" width="50" /></a>
+<a href="https://twitter.com/vstrongwell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="besthor7" height="40" width="50" /></a>
+</p>
 
+#
 <!--Social Media-->  
 <div align="center"> 
 <a href="https://twitter.com/VStrongwell" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
