@@ -7,7 +7,7 @@
 
 <p>I'm a software engineering student currently pursuing a degree in ALX program. With a strong interest in technology and a passion for problem-solving, I have always been drawn to this field.
  <br>
-# <b>`Let's Connect`</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70">
+# <b>`Let's Connect`</b><img src="https://github.com/victoe0089/victor0089/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
 <p align="left">
 <a href="https://www.youtube.com/channel/
