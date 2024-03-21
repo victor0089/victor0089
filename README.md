@@ -30,7 +30,7 @@
 
 - 👯 I’m looking to collaborate on **thrilling projects.**
 
-- 💬 Ask me about **Linux, PHP, Python 
+- 💬 Ask me about **Linux, PHP, Python, Sql, and more 
 
 - 📫 How to reach me: **VICTOR.MECDOORS@gmail.com**
 
