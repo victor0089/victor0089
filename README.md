@@ -24,7 +24,17 @@
 <!--<a href="https://twitter.com/VStrongwell" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
  <a href="https://github.com/victor0089" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a> -->
  </div>
- 
+ - 🔭 I’m currently working on [a PYTHON web application.](https://github.com/)
+
+- 🌱 I’m currently learning **Data Scince.**
+
+- 👯 I’m looking to collaborate on **thrilling projects.**
+
+- 💬 Ask me about **Linux, PHP, Python 
+
+- 📫 How to reach me: **VICTOR.MECDOORS@gmail.com**
+
+- ⚡ Fun fact: **I am a .......**
 <!--Graph-->
 ![Victor's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Victor0089&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
