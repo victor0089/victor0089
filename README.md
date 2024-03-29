@@ -26,11 +26,11 @@
  </div>
  - 🔭 I’m currently working on [a PYTHON web application.]
 
-- 🌱 I’m currently learning **Data Scince.**
+- 🌱 I’m currently learning **Data Science.**
 
 - 👯 I’m looking to collaborate on **thrilling projects.**
 
-- 💬 Ask me about **Linux, PHP, Python, Sql, and more 
+- 💬 Ask me about **Linux, PHP, Python, SQL, and more 
 
 - 📫 How to reach me: **VICTOR.MECDOORS@gmail.com**
 
