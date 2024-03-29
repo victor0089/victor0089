@@ -5,7 +5,7 @@
 <img align="center" alt="Coding" width="999" src="https://github.com/victor0089/victor0089/blob/main/2.jpg">
 <h3><code>Software engineering</code></h3>
 
-<p>I'm a software engineering student currently pursuing a degree in ALX program. With a strong interest in technology and a passion for problem-solving, I have always been drawn to this field.
+<p>I'm a software engineering student currently pursuing a degree in the ALX program. With a strong interest in technology and a passion for problem-solving, I have always been drawn to this field.
  <br>
 # <b>`Let's Connect`</b><img src="https://github.com/victoe0089/victor0089/raw/main/assets/mdImages/handshake.gif" width ="70">
 <p > 
@@ -25,18 +25,14 @@
  <a href="https://github.com/victor0089" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a> -->
  </div>
  - 🔭 I’m currently working on [a PYTHON web application.]
-
+ - 🌱 I’m currently completing my learning **Software Engineering**
 - 🌱 I’m currently learning **Data Science.**
-
 - 👯 I’m looking to collaborate on **thrilling projects.**
-
 - 💬 Ask me about **Linux, PHP, Python, SQL, and more 
-
 - 📫 How to reach me: **VICTOR.MECDOORS@gmail.com**
-
 - ⚡ Fun fact: **I am a .......**
 <!--Graph-->
-![Victor's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Victor0089&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+![Victor's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Victor0089&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Victor0089&theme=radical" alt="trophy">
