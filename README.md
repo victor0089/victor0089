@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HEY💗;I'm+from+Egypt;I'm+Currently+an+ALX+Student🤓;Welcome!💕)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HEY💗;I'm+Victor;I'm+a+softwear+Engineer+🤓;Welcome!💕)
 
 
 <h2>✨ Victor A Israel 👨🏻‍💻✨</h2>
